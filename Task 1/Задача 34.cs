@@ -28,7 +28,7 @@ void PrintChet(int [] num)
       Kol +=1;
 
     }
-    num[i]++;
+    
     
 }
 Console.WriteLine("Количество Четных чисел в массиве = " + Kol);
